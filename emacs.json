@@ -1,12 +1,13 @@
 {
-  "PROGSZ": "{^}{#Escape}{#F12}pp",
-  "PWHR-GSZ": "{^}{#Escape}{#F12}<",
-  "R-GSZ": "{^}{#Escape}{#F12}r",
-  "S-GSZ": "{^}{#Escape}:w{#Return}",
-  "SR-GSZ": "{^}{#Escape}{#F12}vn",
-  "TAOEUGSZ": "{^}{#Escape}{#F12}vr",
-  "TK-GSZ": "{^}{#Escape}dd",
-  "TKPW-GSZ": "{^}{#Escape}{#F12}gg",
-  "TP-GSZ": "{^}{#Control(n)}",
-  "SW-GSZ": "{^}{#Control(w)}{#Control(w)}"
+"SW-GSZ": "{^}{#Control(w)}{#Control(w)}",
+"SR-GSZ": "{^}{#Escape}{#F12}vn",
+"S-GSZ": "{^}{#Escape}:w{#Return}",
+"TKPW-GSZ": "{^}{#Escape}{#F12}gg",
+"TK-GSZ": "{^}{#Escape}dd",
+"TP-GSZ": "{^}{#Control(n)}",
+"TAOEUGSZ": "{^}{#Escape}{#F12}vr",
+"KWR-GSZ": "{^}{#Escape}yy",
+"PWHR-GSZ": "{^}{#Escape}{#F12}<",
+"PROGSZ": "{^}{#Escape}{#F12}pp",
+"R-GSZ": "{^}{#Escape}{#F12}r"
 }
