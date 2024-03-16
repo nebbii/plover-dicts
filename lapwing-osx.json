@@ -5297,7 +5297,7 @@
 "234US/PWO*ET": "Newsboat",
 "234US/WAO*EBG": "Newsweek",
 "234-6R": "{#Home}{^}",
-"234-678": "{#Super(Home)}{^}",
+"234-678": "{#Super(PageDown)}{^}",
 "234-6B8": "{#Page_Down}{^}",
 "234-R": "{#Left}{^}",
 "234-R7G": "{#Page_Up}{^}",

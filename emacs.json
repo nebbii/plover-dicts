@@ -1,0 +1,12 @@
+{
+  "PROGSZ": "{^}{#Escape}{#F12}pp",
+  "PWHR-GSZ": "{^}{#Escape}{#F12}<",
+  "R-GSZ": "{^}{#Escape}{#F12}r",
+  "S-GSZ": "{^}{#Escape}:w{#Return}",
+  "SR-GSZ": "{^}{#Escape}{#F12}vn",
+  "TAOEUGSZ": "{^}{#Escape}{#F12}vr",
+  "TK-GSZ": "{^}{#Escape}dd",
+  "TKPW-GSZ": "{^}{#Escape}{#F12}gg",
+  "TP-GSZ": "{^}{#Control(n)}",
+  "SW-GSZ": "{^}{#Control(w)}{#Control(w)}"
+}
