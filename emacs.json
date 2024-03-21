@@ -11,6 +11,7 @@
 "PWHR-GSZ": "{^}{#Escape}{#F12}{^<^}",
 "PROGSZ": "{^}{#Escape}{#F12}{^pp^}",
 "P-GSZ": "{^}{#Escape}{^p^}",
+"WRAPGSZ": "{^}{#Escape}{#F12}{^tw^}",
 "W-GSZ": "{^}{#Escape}:w{#Return}",
 "R-GSZ": "{^}{#Escape}{#F12}{^r^}",
 "ABGSZ": "{^}{#Escape}{#SHIFT(A)}",
