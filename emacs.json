@@ -3,6 +3,7 @@
 "SR-GSZ": "{^}{#Escape}{#F12}{^vn^}",
 "S-GSZ": "{^}{#Escape}:w{#Return}",
 "TKPW-GSZ": "{^}{#Escape}{#F12}{^gg^}",
+"TK-BGSZ": "{^}{^dd^}",
 "TK-GSZ": "{^}{#Escape}{^dd^}",
 "TP-GSZ": "{^}{#Control(n)}",
 "TAOEUGSZ": "{^}{#Escape}{#F12}{^vr^}",
@@ -11,7 +12,7 @@
 "PWHR-GSZ": "{^}{#Escape}{#F12}{^<^}",
 "PROGSZ": "{^}{#Escape}{#F12}{^pp^}",
 "P-GSZ": "{^}{#Escape}{^p^}",
-"WRAPGSZ": "{^}{#Escape}{#F12}{^tw^}",
+"WRAGSZ": "{^}{#Escape}{#F12}{^tw^}",
 "W-GSZ": "{^}{#Escape}:w{#Return}",
 "R-GSZ": "{^}{#Escape}{#F12}{^r^}",
 "ABGSZ": "{^}{#Escape}{#SHIFT(A)}",
@@ -20,5 +21,6 @@
 "OGSZ": "{^}{#Escape}{^o^}",
 "EUBGSZ": "{^}{#Escape}{#SHIFT(I)}",
 "EUGSZ": "{^}{#Escape}{^i^}",
+"UBGSZ": "{^}{#Escape}{#CONTROL(r)}",
 "UGSZ": "{^}{#Escape}{^u^}"
 }
