@@ -22,6 +22,7 @@
 "234EU/TKPWA/HEU/TKPWA": "nigahiga",
 "2358/KOE": "Falco",
 "230*E7B": "Pheon",
+"24078S": "Thomas",
 "2R0E/KA/TKE/RO": "Trocadero",
 "2E9/RA": "Tetra",
 "K4R0*E7B": "Klonoa",
@@ -117,6 +118,7 @@
 "PWO*E/PHA*PBS": "bromance",
 "PW*EUPBG": "bing",
 "PW*PBT": "btn",
+"PHR*PBLGTS": "{PLOVER:SUGGESTIONS}",
 "PHA/SHAOEPB": "machine",
 "PHAOEUPBD/TKPWA*EUPL": "mindgame",
 "PHOS/KWEU/TOE/-S": "mosquitoes",
@@ -129,6 +131,7 @@
 "PAEUR/TKOBGS": "paradox",
 "PAEUR/HREL": "parallel",
 "POE/KER": "poker",
+"POEUPB": "pony",
 "WAOEU": "while",
 "WAOEUT/WA*RB": "whitewash",
 "WAEUF/KWRU": "waifu",
@@ -161,12 +164,12 @@
 "OEUR": "euro",
 "*ERB": "erb",
 "*FT": "{^st}",
+"*RB": "rb",
 "EPB/PHAOES": "enemies",
 "EPB/ER/SKWREU": "energy",
 "EPBLG/TKPWARD": "edgeguard",
 "EBGS/*ER/SAOEUZ": "exercise",
 "U/TKPWAOU": "uguu",
 "UR/KWROE/PWA*ET": "eurobeat",
-"UPBD/TPHAO*ET": "underneath",
-"UGSZ": "{^}u{^}"
+"UPBD/TPHAO*ET": "underneath"
 }
