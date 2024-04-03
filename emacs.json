@@ -1,4 +1,5 @@
 {
+"STPAOEUL": "{#Escape}:w{#Return}",
 "SW-GSZ": "{#Control(w)}{#Control(w)}",
 "SR-GSZ": "{#Escape}{#F12}{^vn^}",
 "S-GSZ": "{#Escape}:w{#Return}",
@@ -9,11 +10,15 @@
 "TAOEUGSZ": "{#Escape}{#F12}{^vr^}",
 "KWR-BGSZ": "{#Escape}{#SHIFT(Y)}",
 "KWR-GSZ": "{#Escape}{^yy^}",
+"KR-GSZ": "{^c^}",
 "PWHR-GSZ": "{#Escape}{#F12}{^<^}",
+"PW-BGSZ": "{#SHIFT(B)}",
+"PW-GSZ": "{^b^}",
 "PROGSZ": "{#Escape}{#F12}{^pp^}",
 "P-GSZ": "{#Escape}{^p^}",
 "WRAGSZ": "{#Escape}{#F12}{^tw^}",
-"W-GSZ": "{#Escape}:w{#Return}",
+"W-BGSZ": "{#SHIFT(W)}",
+"W-GSZ": "{^w^}",
 "R-GSZ": "{#Escape}{#F12}{^r^}",
 "ABGSZ": "{#Escape}{#SHIFT(A)}",
 "AGSZ": "{#Escape}{^a^}",
@@ -21,6 +26,8 @@
 "OGSZ": "{#Escape}{^o^}",
 "EUBGSZ": "{#Escape}{#SHIFT(I)}",
 "EUGSZ": "{#Escape}{^i^}",
+"EBGSZ": "{#SHIFT(E)}",
+"EGSZ": "{^e^}",
 "UBGSZ": "{#Escape}{#CONTROL(r)}",
 "UGSZ": "{#Escape}{^u^}"
 }
