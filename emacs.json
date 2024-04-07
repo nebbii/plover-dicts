@@ -1,7 +1,9 @@
 {
 "STPAOEUL": "{#Escape}:w{#Return}",
-"SW-GSZ": "{#Control(w)}{#Control(w)}",
+"SPHEFRPBGSZ": "{^y^}{#F12}{^r^}{^def}{^ ^}{#Control(v)}",
+"SW-GSZ": "{#Escape}{#Control(w)}{#Control(w)}",
 "SR-GSZ": "{#Escape}{#F12}{^vn^}",
+"SEFRPBGSZ": "{^y^}{#F12}{^r^}{#Control(v)}",
 "S-GSZ": "{#Escape}:w{#Return}",
 "TKPW-GSZ": "{#Escape}{#F12}{^gg^}",
 "TK-BGSZ": "{^dd^}",
