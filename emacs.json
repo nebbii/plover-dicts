@@ -36,5 +36,5 @@
 "EBGSZ": "{#SHIFT(E)}",
 "EGSZ": "{^e^}",
 "UBGSZ": "{#Escape}{#CONTROL(r)}",
-"UGSZ": "{#Escape}{^u^}"
+"UGSZ": "{^}{#Escape}{^u^}{^}"
 }
