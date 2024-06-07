@@ -1,5 +1,6 @@
 {
 "STPAOEUL": "{^}{#Escape}:w{#Return}{^}",
+"SKWR-GSZ": "{^}{#Super(bracketleft)}{^}",
 "SPHEFRPBGSZ": "{^y^}{#F12}{^r^}{^def}{^ ^}{#Control(v)}",
 "SWAGSZ": "{^}{#Escape}{#Control(w)}{#Control(w)}{^}",
 "SR-BGSZ": "{^}{#SHIFT(V)}{^}",
