@@ -520,6 +520,8 @@
 "*FT": "{^st}",
 "*RB": "{^.rb}",
 "*RD": "{^rd}",
+"E/PHABG/-S": "emacs",
+"E/PHABGS": "emacs",
 "E/ROR": "error",
 "EU/TPHER/SHA": "inertia",
 "EURB": "issue",
