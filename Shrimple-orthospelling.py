@@ -7,7 +7,7 @@ Key considerations were that it wasn't tailored for English, as this is mostly f
 
 starternormal = 'SP*'           #shrimple with normal formatting
 starterattached='SW*'           #shrimple with not space at the start
-startercap    = 'SHR*EUFRPL'    #shrimple but capped the first letter
+startercap    = '13*'           #shrimple but capped the first letter
 acronyms      = 'KAPS'          #shrimple but all caps
 dedicated_key = '+'             #Instead of a starter stroke
 
