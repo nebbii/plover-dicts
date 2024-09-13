@@ -7,7 +7,7 @@ Key considerations were that it wasn't tailored for English, as this is mostly f
 entry_strokes={
     "starter normal"  :['SP*', 'SHREUFRPL', 'SHR*EUFRPL'],           #shrimple with normal formatting
     "starter attached":['SW*'],      #shrimple with not space at the start
-    "starter cap"     :['TPH*', '13*'],            #shrimple but capped the first letter
+    "starter cap"     :['13*'],            #shrimple but capped the first letter
     "starter acronyms":['KAPS'],            #shrimple but all caps
     "starter cap attached":['TPH*FPLT'],
     "starter acronyms attached":['TPH*FPLTS']
