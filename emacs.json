@@ -23,6 +23,7 @@
 "KWR-BGSZ": "{^^}{^yy^}{^^}",
 "KWR-GSZ": "{^y^}",
 "KR-GSZ": "{^c^}",
+"PWHRAGSZ": "{^^}{#Control(x)}{#Plus}{^^}",
 "PWHR-GSZ": "{^^}{#F12}{^<^}{^^}",
 "PW-BGSZ": "{^^}{#SHIFT(B)}{^^}",
 "PW-GSZ": "{^b^}",
