@@ -1012,6 +1012,7 @@
 "R*/PURB": "rpush",
 "R*EBG": "rec",
 "R*FPL": "rvm",
+"RE/SRERDZ": "reversed",
 "RE/SEU/PRO/KAL": "reciprocal",
 "RE/SEU/PROE/KAL": "reciprocal",
 "RE/TPHREPBGS": "reflection",
