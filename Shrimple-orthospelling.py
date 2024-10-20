@@ -188,8 +188,10 @@ strokes_you_can_use_to_exit_shrimple_with=[
     "HAERB",    ##
     "KWRA*T",   #@
     "P-P",      #.
-    "H-N",      #-
-    "H*N",      #-
+    "H-PB",     #-
+    "H*PB",     #-
+    "SH-PB",    #-
+    "H-PBS",    #-
     "TPHO*FRL", #normal
     "*",        #delete
     "PW*FP",    #control backspace
@@ -206,7 +208,14 @@ strokes_you_can_use_to_exit_shrimple_with=[
     "STPH-FR",
     "STPH-LG",
     "PW-FP",
-
+    "234-R",
+    "234-RB",
+    "2347",
+    "234-B",
+    "234-BG",
+    "234-G",
+    "234-6R",
+    "234-8G" 
 ]
 
 left_finger_chords_you_can_use_to_exit_shrimple_with={
