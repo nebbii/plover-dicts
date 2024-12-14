@@ -1,0 +1,10 @@
+{
+  "K-TSDZ": "{^^}{#Super(j)}{^^}",
+  "W-TSDZ": "{^^}{#Super(k)}{^^}",
+  "R-TSDZ": "{^^}{#Super(Semicolon)}{^^}",
+  "P-TSDZ": "{^^}{#Super(l)}{^^}",
+  "TK-TSDZ": "{^^}{#Shift(Super(j))}{^^}",
+  "KWR-TSDZ": "{^^}{#Shift(Super(k))}{^^}",
+  "TPH-TSDZ": "{^^}{#Shift(Super(l))}{^^}",
+  "HR-TSDZ": "{^^}{#Shift(Super(Semicolon))}{^^}"
+}
