@@ -1,5 +1,4 @@
 {
-"#": "=repeat_last_translation",
 "12K3W4REU/RA": "Jira",
 "12K3WR50*EBGS": "Griekse",
 "12K3WR50EBGS": "Grieks",
@@ -11335,7 +11334,7 @@
 "-T": "het",
 "-S": "{^s}",
 "-D": "de",
-"-Z": "{^en}"
+  "-Z": "{^en}",
   "PWREPBGZ": "brengen",
 	"KHRAEUD/SKOEP": "kaleidoscope",
 	"PROERGS": "peproriaties",
