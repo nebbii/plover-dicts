@@ -1,4 +1,4 @@
 {
-"RA*U": "{PLOVER:TOGGLE_DICT:-dutch.json,-user.json,-jeff-phrasing.py,-lapwing-base.json,-lapwing-proper-nouns.json,-lapwing-uk-additions.json}",
-"RA*UD": "{PLOVER:TOGGLE_DICT:-dutch.json,+user.json,+jeff-phrasing.py,+lapwing-base.json,+lapwing-proper-nouns.json,+lapwing-uk-additions.json}"
+"RA*U": "{PLOVER:TOGGLE_DICT:-dutch-glued.json,-user.json,-jeff-phrasing.py,-lapwing-base.json,-lapwing-proper-nouns.json,-lapwing-uk-additions.json}",
+"RA*UD": "{PLOVER:TOGGLE_DICT:-dutch-glued.json,+user.json,+jeff-phrasing.py,+lapwing-base.json,+lapwing-proper-nouns.json,+lapwing-uk-additions.json}"
 }
