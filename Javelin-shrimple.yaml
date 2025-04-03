@@ -350,6 +350,8 @@ exits:
   - stroke: H-B       #-
   - stroke: H*B       #-
   - stroke: TPHO*FRL  #normal
+  - stroke: H-PB
+  - stroke: H*PB
 
   ## Navigation
   - stroke: STPH-R
