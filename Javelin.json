@@ -1,11 +1,3 @@
 {
-	"KHRAEUD/SKOEP": "kaleidoscope",
-	"-P": "wanna",
-	"PADZ/STAOULZ": "paddenstoelen",
-	"-BG": "being",
-	"SKWROEUR": "jury",
-	"-B": "be",
 	"+": "{:toggle_dictionary:dutch_glued.json}{:toggle_dictionary:dutch_glueless.json}",
-	"-R": "are",
-	"-G": "{^ing}"
 }
