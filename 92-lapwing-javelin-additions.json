@@ -1,4 +1,5 @@
 {
-	"#": "=repeat_last_stroke"
+	"#": "=repeat_last_stroke",
+  "+": "{:toggle_dictionary:95-lapwing-commands-osx.json}"
 }
 
