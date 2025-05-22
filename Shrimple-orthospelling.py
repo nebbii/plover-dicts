@@ -196,6 +196,7 @@ strokes_you_can_use_to_exit_shrimple_with=[
     "*",        #delete
     "PW*FP",    #control backspace
     "EFBG",     #escape
+    "STPH-FPLT",#:
     "^*",
 
     #navigation
