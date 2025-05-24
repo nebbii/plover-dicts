@@ -21,9 +21,9 @@ starters:
     definition: ""
   - stroke: SW*
     definition: "{^^}"
-  - stroke: #SP*
+  - stroke: "#SP*"
     definition: "{}{-|}"
-  - stroke: #SW*
+  - stroke: "#SW*"
     definition: "{^^}{-|}"
   - stroke: KAPS
     definition: "{<}"
