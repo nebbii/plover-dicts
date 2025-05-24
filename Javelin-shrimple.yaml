@@ -7,7 +7,7 @@
 
 # The name of the dictionary within Javelin.
 name: Shrimple
-maximumOutlineLength: 12
+maximumOutlineLength: 24
 
 # Starters are the strokes that activate the orthospelling dictionary.
 #
@@ -21,8 +21,10 @@ starters:
     definition: ""
   - stroke: SW*
     definition: "{^^}"
-  - stroke: SHR*EUFRPL
+  - stroke: #SP*
     definition: "{}{-|}"
+  - stroke: #SW*
+    definition: "{^^}{-|}"
   - stroke: KAPS
     definition: "{<}"
 
@@ -352,6 +354,9 @@ exits:
   - stroke: TPHO*FRL  #normal
   - stroke: H-PB
   - stroke: H*PB
+  - stroke: STPH-FPLT #:
+  - stroke: PW*FP     #control backspace
+  - stroke: EFBG      #escape
 
   ## Navigation
   - stroke: STPH-R
