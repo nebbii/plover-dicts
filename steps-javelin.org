@@ -22,7 +22,8 @@
    5. Dictionaries
       1. *Jeff's show-stroke*
       2. *Jeff phrasing*
-      3. *Emily symbols dictionary*
+      3. *Jeff numbers*
+      4. *Emily symbols dictionary*
    6. Dictionary list
       1. Add shrimple yaml
       2. Add own dutch dictionaries (currently due to numbering upload order)
@@ -33,3 +34,9 @@
    7. Key map
       1. Load layout from repository
       
+
+h
+h
+h
+
+h

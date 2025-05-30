@@ -315,6 +315,9 @@ letters:
   - stroke: EU
     data: i
     order: 9
+  - stroke: "*EU"
+    data: y
+    order: 9
   - stroke: E
     data: e
     order: 9
