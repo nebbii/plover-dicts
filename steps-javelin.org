@@ -33,10 +33,3 @@
       6. Uncheck dutch-glueless and dutch-glued
    7. Key map
       1. Load layout from repository
-      
-
-h
-h
-h
-
-h
