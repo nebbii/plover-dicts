@@ -28,8 +28,9 @@
       1. Add shrimple yaml
       2. Add own dutch dictionaries (currently due to numbering upload order)
       3. Add the rest up to javelin additions
-      4. Add lapwing dictionaries
-      5. Add commands-osx and uncheck it
+      4. Click "Add lapwing dictionaries"
+      5. Add commands-osx, drag it above commands and uncheck it
       6. Uncheck dutch-glueless and dutch-glued
+      7. Remove semi-modal movement
    7. Key map
       1. Load layout from repository
