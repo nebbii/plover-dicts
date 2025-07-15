@@ -1,36 +1,27 @@
 * Steps for setting up a Javelin firmware
-1. Sync user entries with own dictionaries
-   1. In Dutch, copy the glueless over to glued
-   2. Add ^ to the start of every chord
-   3. Run the following sed commands to add the glue and correct proper nouns
-      #+begin_src vim
-        %s/: "/: "\{\^\}/g
-        %s/\^#/#\^/g
-      #+end_src
-   4. Save & commit all files
-2. Open the [[https://lim.au/#/software/javelin-steno][firmware builder]]
-   1. In "select your hardware", Starboard + 16MB rp2040
-   2. Tick "show expert options"
-   3. Keyboard emulation: *Advanced*
+1. Open the [[https://lim.au/#/software/javelin-steno][firmware builder]]
+   1) In "select your hardware", Starboard + 16MB rp2040
+   2) Tick "show expert options"
+   3) Keyboard emulation: *Advanced*
       1. Host layout list:
          1. US
          2. US macOS
          3. US Linux IBus
       2. Keyboard protocol: *Compatibility*
-   4. Options
+   4) Options
       1. *Enable repeat*
-   5. Dictionaries
+   5) Dictionaries
       1. *Jeff's show-stroke*
       2. *Jeff phrasing*
       3. *Jeff numbers*
       4. *Emily symbols dictionary*
-   6. Dictionary list
+   6) Dictionary list
       1. Add shrimple yaml
       2. Add own dutch dictionaries (currently due to numbering upload order)
       3. Add the rest up to javelin additions
       4. Click "Add lapwing dictionaries"
       5. Add commands-osx, drag it above commands and uncheck it
-      6. Uncheck dutch-glueless and dutch-glued
+      6. Uncheck dutch
       7. Remove semi-modal movement
-   7. Key map
+   7) Key map
       1. Load layout from repository
