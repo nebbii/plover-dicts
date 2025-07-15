@@ -240,8 +240,8 @@
 						"t": "p",
 						"d": {
 							"a": {
-								"t": "s",
-								"script": "if (getParameter(\"host_layout\") != \"us_linux_ibus\") {\n  console(\"set_host_layout us_linux_ibus\");\n} else {\n  console(\"set_host_layout us_macos\");\n}"
+								"t": "c",
+								"c": "process_strokes SP*"
 							}
 						}
 					}
