@@ -7,7 +7,7 @@
 
 # The name of the dictionary within Javelin.
 name: Shrimple
-maximumOutlineLength: 24
+maximumOutlineLength: 32
 
 # Starters are the strokes that activate the orthospelling dictionary.
 #

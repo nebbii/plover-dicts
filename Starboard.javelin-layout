@@ -13,15 +13,6 @@
 								"script": "\nif (getParameter(\"host_layout\") != \"us_linux_ibus\") {\n  console(\"set_host_layout us_linux_ibus\");\n  console(\"disable_dictionary 95-lapwing-commands-osx.json\");\n} else {\n  console(\"enable_dictionary 95-lapwing-commands-osx.json\");\n  console(\"set_host_layout us_macos\");\n}"
 							}
 						}
-					},
-					{
-						"t": "r",
-						"d": {
-							"a": {
-								"t": "r",
-								"c": "stenoPlus"
-							}
-						}
 					}
 				],
 				[
