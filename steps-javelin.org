@@ -17,9 +17,8 @@
       4. *Emily symbols dictionary*
    6) Dictionary list
       1. Add shrimple yaml
-      2. Add own dutch dictionaries (currently due to numbering upload order)
-      3. Uncheck dutch
-      4. Add the rest up to javelin additions
+      3. Add the rest up to javelin additions
+      4. Uncheck dutch
       5. Click "Add lapwing dictionaries"
       6. Add commands-osx, drag it above commands and uncheck it
       7. Remove semi-modal movement
