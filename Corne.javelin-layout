@@ -1,0 +1,855 @@
+{
+	"layers": [
+		{
+			"id": 0,
+			"name": "Default",
+			"keys": [
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "s",
+								"script": "if (getParameter(\"host_layout\") != \"us_linux_ibus\") {\n  console(\"set_host_layout us_linux_ibus\");\n  console(\"disable_dictionary 95-lapwing-commands-osx.json\");\n} else {\n  console(\"enable_dictionary 95-lapwing-commands-osx.json\");\n  console(\"set_host_layout us_macos\");\n}"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoNum1"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoNum1"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoTL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoTL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoPL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoPL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoHL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoHL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "c",
+								"c": "process_strokes SP-S"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoStar3"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoStar3"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoFR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoFR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoPR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoPR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoLR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoLR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoTR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoTR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoDR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoDR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "c",
+								"c": "process_strokes SP*"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoS2"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoS2"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoKL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoKL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoWL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoWL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoRL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoRL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "c",
+								"c": "process_strokes SP-S"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoStar4"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoStar4"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoRR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoRR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoBR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoBR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoGR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoGR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoSR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoSR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoZR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoZR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "leftShift"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "leftShift"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "leftControl"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "leftControl"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "leftAlt"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "leftAlt"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "leftCommand"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "leftCommand"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "mouseButton1"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "mouseButton1"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "mouseButton2"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "mouseButton2"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "mouseButton3"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "mouseButton3"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "left"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "left"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "down"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "down"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "up"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "up"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "right"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "right"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "esc"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "esc"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "c",
+								"c": "process_strokes KPA"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoA"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoA"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoO"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoO"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoE"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoE"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoU"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoU"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "c",
+								"c": "process_strokes KPA*"
+							}
+						}
+					}
+				]
+			],
+			"scripts": {},
+			"user_scripts": {},
+			"options": {},
+			"sequences": {}
+		}
+	],
+	"global": {
+		"scripts": [],
+		"layer": {
+			"id": -1,
+			"name": "Global",
+			"keys": [
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null
+			],
+			"scripts": {},
+			"user_scripts": {},
+			"options": {},
+			"sequences": {}
+		}
+	}
+}
