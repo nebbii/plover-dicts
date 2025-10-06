@@ -694,7 +694,7 @@
 						"d": {
 							"a": {
 								"t": "c",
-								"c": "process_strokes KPA"
+								"c": "process_strokes SP*"
 							}
 						}
 					}
@@ -785,7 +785,7 @@
 						"d": {
 							"a": {
 								"t": "c",
-								"c": "process_strokes KPA*"
+								"c": "process_strokes SW*"
 							}
 						}
 					}
@@ -793,7 +793,9 @@
 			],
 			"scripts": {},
 			"user_scripts": {},
-			"options": {},
+			"options": {
+				"Display": "Steno Icon"
+			},
 			"sequences": {}
 		}
 	],
