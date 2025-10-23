@@ -18,6 +18,8 @@
 "TR*GSZ": "{^^}{#Escape}{#F12}{^vn^}{^^}",
 "TR-GSZ": "{^^}{#F12}{^vn^}{^^}",
 "TAO*EUGSZ": "{^^}{#Escape}{#F12}{^vr^}{^^}",
+"T-GSZ": "{^^}{#Escape}{#F12}{^vr^}{^^}",
+"TAOEUGSZ": "{^^}{#F12}{^vr^}{^^}",
 "TAOEUGSZ": "{^^}{#F12}{^vr^}{^^}",
 "TERPLGSZ": "{^^}{#F12}{^vn^}{^^}",
 "KWH-BGSZ": "{^^}{^yy^}{^^}",
