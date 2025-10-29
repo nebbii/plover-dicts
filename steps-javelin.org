@@ -1,6 +1,6 @@
 * Steps for setting up a Javelin firmware
 1. Open the [[https://lim.au/#/software/javelin-steno][firmware builder]]
-   1) In "select your hardware", Starboard + 16MB rp2040
+   1) In "select your hardware", Starboard + 16MB rp2040 or Corne v3 16MB rp2040
    2) Tick "show expert options"
    3) Keyboard emulation: *Advanced*
       1. Host layout list:
@@ -12,15 +12,15 @@
       1. *Enable repeat*
    5) Dictionaries
       1. *Jeff's show-stroke*
-      2. *Jeff phrasing*
-      3. *Jeff numbers*
+      2. *Jeff numbers*
+      3. *Jeff phrasing*
       4. *Emily symbols dictionary*
    6) Dictionary list
       1. Add shrimple yaml
-      3. Add the rest up to javelin additions
-      4. Uncheck dutch
-      5. Click "Add lapwing dictionaries"
-      6. Add commands-osx, drag it above commands and uncheck it
-      7. Remove semi-modal movement
+      2. Add the rest up to javelin additions
+      3. Uncheck dutch
+      4. Click "Add lapwing dictionaries"
+      5. Add commands-osx, drag it above commands and uncheck it
+      6. Remove semi-modal movement
    7) Key map
       1. Load layout from repository

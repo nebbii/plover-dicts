@@ -521,7 +521,7 @@ func globalRelease() {
 
 // Global Script: Display Scripts
 func updateDisplay() {
-  @drawDisplayDynamicSteno();
+  @drawDisplaySteno();
 }
 
 func blankDisplay() {
@@ -1911,10 +1911,10 @@ func onRelease30() {
 }
 
 func onPress30_0() {
-  pressMouseButton(2 /* "🖱️M" */);
+  pressMouseButton(1 /* "🖱️R" */);
 }
 func onRelease30_0() {
-  releaseMouseButton(2 /* "🖱️M" */);
+  releaseMouseButton(1 /* "🖱️R" */);
 }
 
 func onPress31() {
@@ -1929,10 +1929,10 @@ func onRelease31() {
 }
 
 func onPress31_0() {
-  pressScanCodeButton(31, 0, 80 /* "←" */, 0);
+  pressMouseButton(0 /* "🖱️L" */);
 }
 func onRelease31_0() {
-  releaseScanCodeButton(80 /* "←" */);
+  releaseMouseButton(0 /* "🖱️L" */);
 }
 
 func onPress32() {
@@ -1947,10 +1947,10 @@ func onRelease32() {
 }
 
 func onPress32_0() {
-  pressScanCodeButton(32, 0, 81 /* "↓" */, 0);
+  pressScanCodeButton(32, 0, 80 /* "←" */, 0);
 }
 func onRelease32_0() {
-  releaseScanCodeButton(81 /* "↓" */);
+  releaseScanCodeButton(80 /* "←" */);
 }
 
 func onPress33() {
@@ -1965,10 +1965,10 @@ func onRelease33() {
 }
 
 func onPress33_0() {
-  pressScanCodeButton(33, 0, 82 /* "↑" */, 0);
+  pressScanCodeButton(33, 0, 81 /* "↓" */, 0);
 }
 func onRelease33_0() {
-  releaseScanCodeButton(82 /* "↑" */);
+  releaseScanCodeButton(81 /* "↓" */);
 }
 
 func onPress34() {
@@ -1983,10 +1983,10 @@ func onRelease34() {
 }
 
 func onPress34_0() {
-  pressScanCodeButton(34, 0, 79 /* "→" */, 0);
+  pressScanCodeButton(34, 0, 82 /* "↑" */, 0);
 }
 func onRelease34_0() {
-  releaseScanCodeButton(79 /* "→" */);
+  releaseScanCodeButton(82 /* "↑" */);
 }
 
 func onPress35() {
@@ -2001,10 +2001,10 @@ func onRelease35() {
 }
 
 func onPress35_0() {
-  pressScanCodeButton(35, 0, 41 /* "⎋" */, 0);
+  pressScanCodeButton(35, 0, 79 /* "→" */, 0);
 }
 func onRelease35_0() {
-  releaseScanCodeButton(41 /* "⎋" */);
+  releaseScanCodeButton(79 /* "→" */);
 }
 
 func onPress36() {
@@ -2017,7 +2017,7 @@ func onRelease36() {
 }
 
 func onPress36_0() {
-  console("process_strokes KPA");
+  console("process_strokes SP*");
 }
 func onRelease36_0() {
 }
@@ -2104,7 +2104,7 @@ func onRelease41() {
 }
 
 func onPress41_0() {
-  console("process_strokes KPA*");
+  console("process_strokes SW*");
 }
 func onRelease41_0() {
 }
