@@ -46,9 +46,6 @@ starters:
 # then pressing AEU will give a in the middle and e at the end of the word.
 letters:
   - stroke: "#"
-    data: "{^}"
-    order: 0
-  - stroke: "#"
     data: "{-|}"
     order: 0
   - stroke: STKPW
