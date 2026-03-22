@@ -2546,5 +2546,16 @@
 "PREFPLT": "presentiment",
 "#HREU/STKPWOT": "Lizotte",
 "#TKPWA/TPHO*PB": "Gannon",
-"#KWAOU/RA*PB": "Qur'an"
+"#KWAOU/RA*PB": "Qur'an",
+"SKWRA*F": "{^}.java",
+"STKPWEL/TKA": "zelda",
+"STKPWELD": "zelda",
+"TKPHR*P": "npc",
+"#TKPHR*P": "NPC",
+"KRELGTS": "{^}ce{^}",
+"POEUL/TKPWOPB": "polygon",
+"TPOPLG": "omfg",
+"STKPREFD": "depressed",
+"SPRAOEUT/SHAO*ET": "spritesheet",
+"HR*G": "logic"
 }
