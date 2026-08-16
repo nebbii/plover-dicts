@@ -363,6 +363,7 @@ exits:
   - stroke: STPH-FPLT #:
   - stroke: PW*FP     #control backspace
   - stroke: EFBG      #escape
+  - stroke: -LGTS     # emily's
 
   ## Navigation
   - stroke: STPH-R
