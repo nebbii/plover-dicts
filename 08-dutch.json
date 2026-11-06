@@ -3975,7 +3975,6 @@
 "KRULT": "krult",
 "KRUPGS": "corruptie",
 "KRURBL": "cruciaal",
-"KU": "kun je",
 "KU/TAEPB": "cutaan",
 "KUFPB": "kussen",
 "KUFPB/HAOUS": "kussenhoes",
@@ -13530,4 +13529,8 @@
 "SROERS/TPHOG": "vooralsnog",
 "PWALS": "balans",
 "TKPWE/KO*PLD": "gekoppeld"
+"KU": "kan je",
+"AOT/TKAEG/-G": "uitdaging",
+"K*U": "kun je",
+"HRAFG/*ER": "lastiger"
 }
